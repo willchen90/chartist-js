@@ -2,9 +2,9 @@
 
 ![The Chartist Guy](https://raw.github.com/gionkunz/chartist-js/develop/source/images/chartist-guy.gif "The Chartist Guy")
 
-*Checkout the documentation site at http://gionkunz.github.io/chartist-js/*
+*Check out the documentation site at http://gionkunz.github.io/chartist-js/*
 
-*Checkout this lightening talk that gives you an overview of Chartist in 5 minutes https://www.youtube.com/watch?v=WdYzPhOB_c8*
+*Check out this lightening talk that gives you an overview of Chartist in 5 minutes https://www.youtube.com/watch?v=WdYzPhOB_c8*
 
 Chartist.js is a simple responsive charting library built with SVG. There are hundreds of nice charting libraries already
 out there, but they are either:
